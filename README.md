@@ -1,6 +1,17 @@
 # Walter the Alien Podcast
 ### An experiment in Human + AI creative collaboration
 
+Generative AI is opening up new ways to create by separating imagination from technical skill.
+
+Many people have strong creative instincts but haven’t had the chance to develop the skills (e.g. drawing or writing) to express their creativity. AI can help bridge that gap by making it easier to bring ideas to life without years of technical training.
+
+Walter the Alien is a storytelling experiment in human-AI collaboration. I define the story arc. AI generates narrative components. I then edit and shape those outputs into podcast episodes. It's a practical exploration of how AI can augment, not replace, the human creative process.
+
+AI Tools
+- ChatGPT to generate the story ideas and drafts
+- Google Generate Speech to convert the text to audio<br>
+https://aistudio.google.com/generate-speech
+
 <br>
 <br>
 YouTube channel<br>
