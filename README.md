@@ -1,6 +1,7 @@
 # Walter the Alien Podcast
 ### An experiment in Human + AI creative collaboration
 
+<br>
 Generative AI is opening up new ways to create by separating imagination from technical skill.
 
 Many people have strong creative instincts but haven’t had the chance to develop the skills (e.g. drawing or writing) to express their creativity. AI can help bridge that gap by making it easier to bring ideas to life without years of technical training.
