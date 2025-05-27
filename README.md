@@ -46,6 +46,6 @@ The Elements of Style<br>
 <br>
 
 ## Lessons Learned - Rough Notes as the project progresses
-1- The style and tone of the generated text are heavily dependant on the model version. If you somehow lose access to your version of a model, say the model gets updated to a new version by the API provider, then the style of the prose you are generating can change dramatically. This can ruin a long term creative project. To reduce this risk it's better to use an open source model that you run locally or run using a cloud GPU rental service.
+1- Version Anxiety: The style and tone of the generated text are heavily dependant on the model version. If you somehow lose access to your version of a model, say the model gets updated to a new version by the API provider, then the style of the prose you are generating can change dramatically. This can ruin a long term creative project. To reduce this risk it's better to use an open source model that you run locally or run using a cloud GPU rental service.
 
 
