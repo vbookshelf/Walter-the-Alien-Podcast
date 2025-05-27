@@ -14,7 +14,7 @@ Hello, Earth. My name is Walter. I’m an anthropologist from Mars. A quiet obse
 <hr>
 <br>
 
-### Project Overview
+## Project Overview
 
 Generative AI is opening up new ways to create by separating imagination from technical skill.
 
@@ -25,7 +25,7 @@ Walter the Alien is a storytelling experiment in human-AI collaboration. I defin
 This is also a chance for me to do something creative that doesn't involve coding.
 <br>
 <br>
-### AI Tools
+## AI Tools
 - ChatGPT to generate the story ideas and drafts
 - Google Generate Speech<br>
 Used to convert the text to audio.<br>
@@ -33,6 +33,15 @@ https://aistudio.google.com/generate-speech
 - Google NotebookLM Audio Overview<br>
   Used to generate a third party perspective on the content. I also use it to check that the podcast episodes complement each other without creating conflicts and inconsistencies in the overall narrative.<br>
 https://notebooklm.google.com/
+
+## Resources
+- Book<br>
+On Writing Well: The Classic Guide to Writing Nonfiction<br>
+William Zinsser
+
+- Book<br>
+The Elements of Style<br>
+ William Strunk Jr. and E. B. White
 
 <br>
 <br>
