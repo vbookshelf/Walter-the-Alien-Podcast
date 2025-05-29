@@ -38,7 +38,7 @@ https://aistudio.google.com/generate-speech
   Used to generate a third party perspective on the content. I also use it to check that the podcast episodes complement each other without creating conflicts and inconsistencies in the overall narrative.<br>
 https://notebooklm.google.com/
 - iMovie<br>
-Use to create the YouTube videos.
+Used to create the YouTube videos.
 
 ## Resources
 - Book<br>
