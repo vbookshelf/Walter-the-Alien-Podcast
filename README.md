@@ -28,14 +28,17 @@ This project is a practical exploration of how AI can support the human creative
 It's also a chance for me to do something creative that doesn't involve coding.
 <br>
 <br>
-## AI Tools
-- ChatGPT to generate the story ideas and drafts
+## Tools
+- ChatGPT<br>
+Used to generate story ideas and drafts.
 - Google Generate Speech<br>
 Used to convert the text to audio.<br>
 https://aistudio.google.com/generate-speech
 - Google NotebookLM Audio Overview<br>
   Used to generate a third party perspective on the content. I also use it to check that the podcast episodes complement each other without creating conflicts and inconsistencies in the overall narrative.<br>
 https://notebooklm.google.com/
+- iMovie<br>
+Use to create the YouTube videos.
 
 ## Resources
 - Book<br>
