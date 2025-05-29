@@ -28,7 +28,9 @@ This project is a practical exploration of how AI can support the human creative
 
 <br>
 <br>
+
 ## Tools
+
 - ChatGPT<br>
 Used to generate story ideas and drafts.
 - Google Generate Speech<br>
