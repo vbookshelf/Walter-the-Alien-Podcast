@@ -25,9 +25,7 @@ Walter the Alien is a storytelling experiment in human-AI collaboration. I defin
 I only use free tools.
 
 This project is a practical exploration of how AI can support the human creative process.
-It's also a chance for me to do something creative that doesn't involve coding.
 
-There's no master plan. I just want see where this path leads.
 <br>
 <br>
 ## Tools
