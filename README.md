@@ -69,5 +69,5 @@ Please rewrite with your corrections included. Also, at the end, list all the ch
 ###
 [... Paste text here...]
 ```
-Because ChatGPT has a limited context memory, this prompt needs to be added to every every block of text you need to edit. As the conversation gets longer, ChatPT's performance degrades.
+Because ChatGPT has a limited context memory, this prompt needs to be added to every every block of text you need to edit. As the conversation gets longer, ChatGPT's performance degrades.
 
