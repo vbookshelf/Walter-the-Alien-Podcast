@@ -1,7 +1,7 @@
 # Walter the Alien Podcast
 ### An experiment in Human + AI creative collaboration
 
-Human Life from an Alien Perspective is a YouTube podcast that explores Earth through the curious eyes of Walter — a Martian anthropologist. In each episode, Walter offers thoughtful, sometimes humorous insights into human behavior, culture, and daily life. With an outsider’s clarity and a researcher’s rigor, he unpacks everything from food and fashion to rituals, subcultures, and social norms. It’s a fresh, reflective look at what it means to be human — from someone who isn’t.
+<i>Human Life from an Alien Perspective</i> is a YouTube podcast that explores Earth through the curious eyes of Walter — a Martian anthropologist. In each episode, Walter offers thoughtful, sometimes humorous insights into human behavior, culture, and daily life. With an outsider’s clarity and a researcher’s rigor, he unpacks everything from food and fashion to rituals, subcultures, and social norms. It’s a fresh, reflective look at what it means to be human — from someone who isn’t.
 
 YouTube channel<br>
 Human Life from an Alien Perspective<br>
