@@ -57,6 +57,17 @@ The Elements of Style<br>
 <br>
 
 ## Lessons Learned - Rough Notes as the project progresses
+
 1- Model Version Anxiety: The style and tone of the generated text are heavily dependant on the model version. If you somehow lose access to your version of a model, say the model gets updated to a new version by the API provider, then the style of the prose you are generating can change dramatically. This can ruin a long term creative project. To reduce this risk it's better to use an open source model that you run locally or run using a cloud GPU rental service.
 
+2- Literary text editing: ChatGPT is able to edit in accordance with the Chicago Manual of Style. Gemini is not able to do this. Also, ChatGPT understands that editing style needs to suit the context.
+
+3- ChatGPT prompt I used for editing: 
+```
+I will give you some text. Please check the spelling. Please check that it follows creative prose and poetic formatting conventions. Please use American punctuation conventions and American spelling. It will be published as an ebook and as a paperback. Make sure the text is fully  aligned with American publishing conventions e.g. remove the spaces around em dashes. 
+Please rewrite with your corrections included. Also, at the end, list all the changes you’ve made.
+###
+[... Paste text here...]
+```
+Because ChatGPT has a limited context memory, this prompt needs to be added to every every block of text you need to edit. As the conversation gets longer, ChatPT's performance degrades.
 
