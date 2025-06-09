@@ -23,7 +23,7 @@ Generative AI is opening up new ways to create by separating imagination from te
 
 Many people have strong creative instincts but haven’t had the chance to develop the skills (e.g. drawing or writing) to express their creativity. AI can help bridge that gap by making it easier to bring ideas to life without years of technical training.
 
-Walter the Alien is a storytelling experiment in human+AI collaboration. I define the story arc. AI generates narrative components. I edit and shape those outputs into podcast scripts. Then I use "Google Generate Speech" to convert the scripts in podcast episodes. 
+Walter the Alien is a storytelling experiment in human+AI collaboration. I define the story arc. AI generates narrative components. I edit and shape those outputs into podcast scripts. Then I use "Google Generate Speech" to convert the scripts into podcast episodes. 
 
 I only use free tools.
 
