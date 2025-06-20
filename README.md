@@ -71,3 +71,5 @@ Please rewrite with your corrections included. Also, at the end, list all the ch
 ```
 Because ChatGPT has a limited context memory, this prompt needs to be added to every every block of text you need to edit. As the conversation gets longer, ChatGPT's performance degrades.
 
+4- Amazon KDP has a high level of trust in automated AI classification systems that, in reality, are not reliable. This confidence is evidenced by the fact that the system summarily BLOCKS when it detects issues - with a book title for example. There's no option to revise and resubmit. You are told to contact support but when clicking the 'Contact Us' button the user is greeted with a labyrith of links to documentation. It's not clear how to send a message to the support team. Clearly the system is set up to reduce the number of support requests that are sent. I think that this trend of placing high levels of confidence in imperfect AI systems does not bode well for the future. When AI systems are used by governments, for example, these system errors could lead to social unrest because the general population will just not have any other recourse.
+
