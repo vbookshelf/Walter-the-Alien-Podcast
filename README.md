@@ -29,6 +29,8 @@ I only use free tools.
 
 This project is a practical exploration of how AI can support the human creative process.
 
+In addition to YouTube, I'm also experimenting with Amazon KDP.
+
 <br>
 <br>
 
